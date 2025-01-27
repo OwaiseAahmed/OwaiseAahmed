@@ -1,6 +1,8 @@
 👋 Hi, I'm Owaise Ahmed!
 💻 MERN Stack Developer
-🌟 Passionate about building scalable web applications and creating impactful user experiences.I've had the privilege of building multiple projects, each teaching me something new and sharpening my skills. I believe in lifelong learning and love taking up online courses to stay updated in this ever-evolving tech world.
+🌟 Passionate about building scalable web applications and creating impactful user experiences.
+I've had the privilege of building multiple projects,each teaching me something new and sharpening my skills
+. I believe in lifelong learning and love taking up online courses to stay updated in this ever-evolving tech world.
 
 👀 Interests
 Crafting intuitive and responsive web designs.
