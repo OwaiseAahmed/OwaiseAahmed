@@ -10,6 +10,8 @@ Building real-time apps with cutting-edge features.
 Advanced React.js features like Context API and Redux Toolkit.
 Optimizing backend performance with Node.js and MongoDB.
 Enhancing security in full-stack applications.
+
+
 💼 Projects
 🔗 Khan Acdemy website
 Collaborated with a team to clone the Khan Academy website, achieving 60-70% functionality within a three-day deadline.
