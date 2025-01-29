@@ -19,7 +19,7 @@
 
 #### **Frontend**  
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Nede.js]([https://img.shields.io/badge/-Nede.js-black?style=flat-square&logo=nextdotjs](https://images.app.goo.gl/M6KuukZUC3377e8RA))  
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)  
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
@@ -55,9 +55,8 @@
 ---
 
 ### 📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://your-portfolio.com)  
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/owaise-ahmed-777a93215/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://owaiseaahmed.github.io/)  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:owaiseahmed608@gmail.com)  
 
 ---
