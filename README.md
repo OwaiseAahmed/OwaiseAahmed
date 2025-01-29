@@ -54,7 +54,7 @@
 
 ### 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/owaise-ahmed-777a93215/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://owaiseaahmed.github.io/)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)]([https://owaiseaahmed.github.io/](https://owaiseaahmed.github.io/PortFolio/))  
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:owaiseahmed608@gmail.com)  
 
 ---
