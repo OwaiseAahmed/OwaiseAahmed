@@ -20,7 +20,6 @@
 #### **Frontend**  
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)  
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
 #### **Backend**  
@@ -49,7 +48,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OwaiseAahmed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwaiseAahmed&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
