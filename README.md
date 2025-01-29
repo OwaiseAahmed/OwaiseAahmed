@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 **About Me**  
-💻 I am a **MERN Stack Developer** who loves building fast, scalable, and user-friendly web applications.  
+💻 A **MERN Stack Developer** who loves building fast, scalable, and user-friendly web applications.  
 ⚡ Passionate about **problem-solving**, **clean code**, and **cutting-edge technologies**.  
 🎯 Constantly exploring new tools & frameworks to improve my skill set.  
 
