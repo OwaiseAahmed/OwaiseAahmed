@@ -19,7 +19,7 @@
 
 #### **Frontend**  
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)  
+![Nede.js]([https://img.shields.io/badge/-Nede.js-black?style=flat-square&logo=nextdotjs](https://images.app.goo.gl/M6KuukZUC3377e8RA))  
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=flat-square&logo=redux)  
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
@@ -34,7 +34,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)  
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=flat-square&logo=postman)  
-![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)  
 
 ---
 
@@ -49,8 +48,8 @@
 ### 📊 **GitHub Stats**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OwaiseAahmed&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OwaiseAahmed&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
@@ -59,7 +58,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=vercel)](https://your-portfolio.com)  
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:your@email.com)  
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:owaiseahmed608@gmail.com)  
 
 ---
 
