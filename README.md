@@ -1,9 +1,9 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://your-image-url.com/banner.png" alt="MERN Developer Banner" />
+  <img src="https://camo.githubusercontent.com/4adf218513d040ee24022cbe5c054dc93bfa1c25350d3dca00edd6c0f7fe0ac4/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
 </p>
 
-# 👋 Hello, I'm [Your Name]!  
+# 👋 Hello, I'm [Owaise Ahmed]!  
 🚀 MERN Stack Developer | 💡 Problem Solver | 🎨 UI/UX Enthusiast  
 
 ## 🛠️ About Me  
@@ -12,8 +12,8 @@ I'm a passionate **MERN Stack Developer** with expertise in building scalable an
 ## 🔥 Tech Stack  
 💻 **Frontend:** React.js, Next.js, Redux, TailwindCSS  
 🛠️ **Backend:** Node.js, Express.js, RESTful APIs  
-📡 **Database:** MongoDB, Mongoose  
-🧪 **Tools & Others:** Git, GitHub, Postman, Docker  
+📡 **Database:** MongoDB,   
+🧪 **Tools & Others:** Git, GitHub, Postman 
 
 ## 🌟 What I Do  
 ✔️ Build full-stack applications with **MERN Stack**  
@@ -22,4 +22,4 @@ I'm a passionate **MERN Stack Developer** with expertise in building scalable an
 ✔️ Learn and implement new technologies  
 
 ## 📫 Let's Connect!  
-🔗 [Portfolio](#) | 💼 [LinkedIn](#) | 🐦 [Twitter](#) | 📧 [Email](mailto:your@email.com)  
+🔗 [Portfolio](https://owaiseaahmed.github.io/) | 💼 [LinkedIn](https://www.linkedin.com/in/owaise-ahmed-777a93215/) | 📧 [Email](owaiseahmed608@email.com)  
