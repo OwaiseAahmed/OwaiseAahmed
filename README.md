@@ -3,7 +3,7 @@
   <img src="https://camo.githubusercontent.com/4adf218513d040ee24022cbe5c054dc93bfa1c25350d3dca00edd6c0f7fe0ac4/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="MERN Developer Banner" />
 </p>
 
-<h1 align="center">👋 Hey there, I'm <Owaise Ahmed>!</h1>
+<h1 align="center">👋 Hey there,  <Owaise Ahmed>!</h1>
 <h3 align="center">🚀 Full Stack MERN Developer | 💡 Tech Enthusiast | 
 
 ---
